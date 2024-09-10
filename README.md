@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314x45x2bo5panxh5phinjmuz2by&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=314x45x2bo5panxh5phinjmuz2by&redirect=true)
+
 # 💫 About Me:
 👨‍💻 Frontend Web Developer | 🎨 Graphic & UI/UX Design Enthusiast<br>🚀 Passionate about building cool, challenging projects that push the boundaries of creativity and technology.<br>🤖 Currently developing a Qt-based web browser for devs and designers, with a focus on automation and innovative features.<br>💡 Loves exploring the intersection of AI and design to create smarter, more intuitive user experiences.<br><br>
 
